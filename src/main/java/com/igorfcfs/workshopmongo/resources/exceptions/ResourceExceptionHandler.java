@@ -1,4 +1,4 @@
-package com.example.workshopmongo.resources.exceptions;
+package com.igorfcfs.workshopmongo.resources.exceptions;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -7,7 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-import com.example.workshopmongo.services.exceptions.ObjectNotFoundException;
+import com.igorfcfs.workshopmongo.services.exceptions.ObjectNotFoundException;
 
 @ControllerAdvice
 public class ResourceExceptionHandler {

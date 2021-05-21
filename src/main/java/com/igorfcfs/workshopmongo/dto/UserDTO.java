@@ -1,8 +1,8 @@
-package com.example.workshopmongo.dto;
+package com.igorfcfs.workshopmongo.dto;
 
 import java.io.Serializable;
 
-import com.example.workshopmongo.domain.User;
+import com.igorfcfs.workshopmongo.domain.User;
 
 public class UserDTO implements Serializable {
 	private static final long serialVersionUID = 1L;

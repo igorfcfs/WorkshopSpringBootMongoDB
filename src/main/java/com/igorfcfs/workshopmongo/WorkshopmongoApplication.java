@@ -1,4 +1,4 @@
-package com.example.workshopmongo;
+package com.igorfcfs.workshopmongo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

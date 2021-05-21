@@ -1,4 +1,4 @@
-package com.example.workshopmongo.domain;
+package com.igorfcfs.workshopmongo.domain;
 
 import java.io.Serializable;
 
